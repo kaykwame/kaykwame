@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaykwame.
-- 👀 I’m interested in web applications dev.
-- 🌱 I’m currently learning web applications development with python & javascrpit in Django framework.
+- 👀 I’m interested in web applications development.
+- 🌱 I’m currently developing web applications with TypeScript and TailwindCSS in SvelteKit framework coupled with Supabase as backend (BaaS).
 - 💞️ I’m looking to collaborate on writing open source codes for web applications. 
 - 📫 How to reach me: kwame.gyampoh91@gmail.com.
 
